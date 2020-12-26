@@ -1,2 +1,2 @@
-# AngryBird-S1
-Class Design of Bird, Logs, Pig, Box, Ground
+# angryBirdsStage1
+Stage 1 Angry Birds
